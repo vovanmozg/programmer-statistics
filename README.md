@@ -1,3 +1,6 @@
+@todo: вмержить сюда https://github.com/vovanmozg/new-tech-detector
+
+
 term | keywords | link
 --- | --- | ---
 Гранулярность блокировок | БД, hi-load | 3
