@@ -1,4 +1,8 @@
-@todo: вмержить сюда https://github.com/vovanmozg/new-tech-detector
+# related
+
+https://github.com/vovanmozg/programmer-statistics
+
+вмержить сюда: https://github.com/vovanmozg/new-tech-detector
 
 
 term | keywords | link
