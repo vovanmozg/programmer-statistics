@@ -1664,6 +1664,11 @@ ARPU
 CAPEX
 OPEX
 VDI
-
+test oracle problem
+rider #rust
+actix #rust 
+акторы
+корутины 
+may #rust
 
 ```
